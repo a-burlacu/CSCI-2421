@@ -24,8 +24,9 @@ int main() {
     vector<float> list2 {1.5, 5.9, 17.13, 2, 99.75, 99.65, 16.0};
     float max2 = findMax(list2);
     cout << "Max value is " << max2 << endl;
-
-    vector<string> list3 {"alpha", "zeta", "beta", "zebra", "crocodile"};
+    
+// A-Z finds greatest letter/word in alphabetical order
+    vector<string> list3 {"alpha", "zeta", "beta", "epsilon", "theta"};
     string max3 = findMax(list3);
     cout << "Max value is " << max3 << endl;
 }
