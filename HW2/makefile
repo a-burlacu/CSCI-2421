@@ -14,10 +14,10 @@ CC = g++
 CXXFLAGS = -g -std=c++11
 
 ######Change to match all .cpp files.  Do not include .h files####
-OBJS = main.o
+OBJS = HW2.o Student.o
 
 ######Change from target to name of output file
-TARGET = hw2
+TARGET = HW2
 
 ######Do NOT change this...Tabs Matter!#########
 $(TARGET): $(OBJS)
