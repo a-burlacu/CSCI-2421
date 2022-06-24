@@ -4,7 +4,7 @@
 #include <algorithm>
 #include "RectangleAreaComparator.h"
 #include "RectanglePerimeterComparator.h"
-
+//classwork-examples/Example6/main.cpp
 using namespace std;
 
 // Generic findMax, with a function object, Version #1.
