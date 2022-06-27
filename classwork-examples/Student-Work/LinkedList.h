@@ -19,7 +19,7 @@ private:
    
 public:
 	LinkedList();
-	LinkedList (const LinkedList<ItemType>& linkedList);  //Copy Constructor	
+	LinkedList (const LinkedList<ItemType>& aList);  //Copy Constructor	
 	virtual ~LinkedList();           //Destructor
 	
 	int getCurrentSize() const;

@@ -200,6 +200,7 @@ int LinkedList<ItemType>::getFrequencyOf (const ItemType& anEntry) const
 		currentNode = currentNode -> getNext();
 	return count;
 }
+}
 
 
 template<class ItemType>

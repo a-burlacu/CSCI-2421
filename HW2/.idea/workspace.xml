@@ -3,8 +3,10 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="HW2" targetName="HW2" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -12,61 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3792bb13-8037-49c1-a86d-fa3b3f167d1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/Student-Work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/includes_CXX.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/Student_Work.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Student-Work/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classwork-examples/big_O_examples.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../classwork-examples/Example6/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../classwork-examples/Example6/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="3792bb13-8037-49c1-a86d-fa3b3f167d1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +23,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -91,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -126,7 +76,7 @@
       <updated>1655325238370</updated>
       <workItem from="1655325239469" duration="117000" />
       <workItem from="1655748911289" duration="50000" />
-      <workItem from="1656032067751" duration="78000" />
+      <workItem from="1656032067751" duration="656000" />
     </task>
     <servers />
   </component>
