@@ -2,7 +2,7 @@
 #include "Node.h"
 
  template<class ItemType>
-LinkedList<ItemType>::LinkedList()
+LinkedList<ItemType>::LinkedList()		
 {
 	headPtr = nullptr;
 	itemCount = 0;

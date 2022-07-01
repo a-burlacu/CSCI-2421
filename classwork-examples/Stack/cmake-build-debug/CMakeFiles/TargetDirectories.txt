@@ -1,0 +1,3 @@
+C:/C_Code/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+C:/C_Code/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C_Code/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
