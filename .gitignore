@@ -1,3 +1,11 @@
 .vscode/
-/CSCI-2421/*.idea
-/CSCI-2421/**/cmake
+**/cmake-build-debug
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/install_manifest.txt
+**/CMakeFiles/
+**/CTestTestfile.cmake
+**/Makefile
+**/*.cbp
+**/CMakeScripts
+**/compile_commands.json
