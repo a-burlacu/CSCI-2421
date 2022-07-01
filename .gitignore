@@ -1,2 +1,3 @@
 .vscode/
 /CSCI-2421/*.idea
+/CSCI-2421/**/cmake
