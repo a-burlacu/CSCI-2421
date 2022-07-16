@@ -1,84 +1,68 @@
-#include <iostream>
-#include "Double_Linked_List.h"
+/********************************************
+ * This is the main driver function for the
+ * Doubly Linked List
+ *
+ * Author: Alina Burlacu
+ * Version: July 15, 2022
+ *********************************************/
 
+#include <iostream>
+#include "DoublyLinkedList.h"
 using namespace std;
 
-int main()
-{
-// It will create a linked list object.
-    Node* node = new Node();
-    node->setValue(4); 
+int main() {
+    //Initiate new list object
+    DoublyLinkedList* list = new DoublyLinkedList();
 
-    node->print(node);
+    //Add numbers to list
+    list->add(1);
+    list->add(5);
+    list->add(9);
+    list->add(16);
+    list->add(25);
+    list->add(2);
+    list->add(7);
+    list->add(19);
 
-// It will add 1 to the list.
+    //Print current list
+    list->print();
 
+    cout << endl;
+    list->add(10); //Add 10
 
-// It will add 5 to the list.
+    list->print(); //Print list
+    cout << endl;
 
+    //Print current list size
+    cout << "Current list size: " << list->getSize() << endl;
 
-// It will add 9 to the list.
+    //Check if list is empty
+    if (list->isEmpty()){
+        cout << "List is empty." << endl;
+    }
+    else {
+        cout << "List is not empty." << endl;
+    }
 
+    //Remove value 9
+    list->remove(9);
 
-// It will add 16 to the list
+    //Print current list
+    list->print();
+    cout << endl;
 
+    //Print current list size
+    cout << "Number of items in the list is: " << list->getSize() << endl;
 
-// It will add 25 to the list.
+    //find and print location of 16 and 9
+    list->findPrint(16);
+    list->findPrint(9);
 
+    //Clear list
+    list->clear();
 
-// It will add 2 to the list.
-
-
-// It will add 7 to the list.
-
-
-// It will add 19 to the list.
-
-
-// It will display the list using the print function. 
-//The output will be as follows: 1 2 5 7 9 16 19 25
-
-
-// It will use the add function to add 10 to the list.
-
-
-// It will display the list on the screen using the print function. 
-//The output will be as follows: 1 2 5 7 9 10 16 19 25
-
-
-// It will use the current size function to get the number of items in the list and will display the result. The output will be as follows: 
-//Number of items in the list is: 9
-
-
-// It will use the is empty function to check if the list is empty and will display the result. 
-//The output will be as follows: List is not empty.
-
-
-// It will use the remove function to remove 9 from the list.
-
-
-// It will display the list on the screen using the print function. 
-//The output will be as follows: 1 2 5 7 10 16 19 25
-
-
-// It will use the current size function to get the number of items in the list and will display the result. 
-//The output will be as follows: Number of items in the list is: 8
-
-
-// It will use the find function to find the location (index number) of 16 and display the result. 
-//The output will be as follows: Number 16 is located at position 5.
-
-
-// It will use the find function to find the location (index number) of 9 and display the result. 
-//The output will be as follows: Number 9 is not in the list.
-
-
-// It will use the clear function to remove all items from the list.
-
-
-// It will use the is empty function to check if the list is empty and will display the result. 
-//The output will be as follows: List is empty.
-
+    //Print list
+    list->print();
 
     return 0;
 }

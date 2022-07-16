@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/BinaryTree.cpp
+BinaryTree.h
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/BinaryTree.h
+
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/BinaryTree.h
+iostream
+-
+
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/main.cpp
+iostream
+-
+fstream
+-
+BinaryTree.h
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/BinaryTree.h
+BinaryTree.cpp
+C:/Users/lakhanis/CLionProjects/BinaryTreeDemo/BinaryTree.cpp
+
