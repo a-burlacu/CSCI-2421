@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2019.2.1/bin/ninja/win/ninja.exe" -G Ninja C:\C_Code\Queue
--- Configuring done
--- Generating done
--- Build files have been written to: C:/C_Code/Queue/cmake-build-debug
+Cannot generate into C:\Users\Alina\OneDrive - The University of Colorado Denver\Coding\CSCI-2421\classwork-examples\Queue\cmake-build-debug
+It is already used for project C:\C_Code\Queue
+
+Please either delete it manually or select another generation directory
