@@ -1,9 +1,11 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Student_Work.dir/LinkedList.cpp.obj"
+  "CMakeFiles/Student_Work.dir/LinkedList.cpp.obj.d"
   "CMakeFiles/Student_Work.dir/Node.cpp.obj"
-  "Student_Work.pdb"
+  "CMakeFiles/Student_Work.dir/Node.cpp.obj.d"
   "Student_Work.exe"
   "Student_Work.exe.manifest"
+  "Student_Work.pdb"
   "libStudent_Work.dll.a"
 )
 

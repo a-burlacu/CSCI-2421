@@ -1,17 +1,15 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/burlacua/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/Student-Work/LinkedList.cpp" "C:/Users/burlacua/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/LinkedList.cpp.obj"
-  "C:/Users/burlacua/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/Student-Work/Node.cpp" "C:/Users/burlacua/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/Student-Work/cmake-build-debug/CMakeFiles/Student_Work.dir/Node.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../."
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/Alina/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/classwork-examples/Linked-Lists/LinkedList.cpp" "CMakeFiles/Student_Work.dir/LinkedList.cpp.obj" "gcc" "CMakeFiles/Student_Work.dir/LinkedList.cpp.obj.d"
+  "C:/Users/Alina/OneDrive - The University of Colorado Denver/Coding/CSCI-2421/classwork-examples/Linked-Lists/Node.cpp" "CMakeFiles/Student_Work.dir/Node.cpp.obj" "gcc" "CMakeFiles/Student_Work.dir/Node.cpp.obj.d"
   )
 
 # Targets to which this target links.
